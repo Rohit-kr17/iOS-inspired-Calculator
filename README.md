@@ -1,4 +1,4 @@
-# iOS-like-Calculator
+# iOS-inspired-Calculator
 Calculator
 This is a basic calculator app made with HTML, CSS, and JavaScript.
 
